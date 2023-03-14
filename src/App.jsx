@@ -46,7 +46,7 @@ export default function App() {
             <nav>
                 <img
                     alt="logo"
-                    src="https://assets.codepen.io/6060109/crypto-logo-secondary.png"
+                    src="/assets/crypto-logo-secondary.webp"
                 />
                 <input type="text" placeholder="Search" />
             </nav>
@@ -88,7 +88,7 @@ export default function App() {
                     <img
                         className="bottom-logo"
                         alt="logo"
-                        src="https://assets.codepen.io/6060109/crypto-logo-primary.png"
+                        src="/assets/crypto-logo-primary.png"
                     />
                 </div>
             </div>
